@@ -8,10 +8,10 @@ function card_default_options() {
         default_color: "black",
         default_icon: "ace",
         default_title_size: "13",
-        page_size: "A4",
+        page_size: "Letter",
         page_rows: 3,
         page_columns: 3,
-        card_arrangement: "doublesided",
+        card_arrangement: "front_only",
         card_size: "25x35",
         card_count: null,
         icon_inline: true,
@@ -347,7 +347,7 @@ function card_generate_back(data, options) {
 	{
 		background_style = 'style = "background-image: url(&quot;' + url + '&quot;); background-size: contain; background-position: center; background-repeat: no-repeat;"';
 	}
-	else 
+	else
 	{
 		background_style = card_generate_color_gradient_style(color, options);
     }

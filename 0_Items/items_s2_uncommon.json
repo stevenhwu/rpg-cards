@@ -1,0 +1,114 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Mariner's Breastplate",
+    "icon": "armor-vest",
+    "contents": [
+      "subtitle | Medium Armor, Dormant",
+      "rule",
+      "property | AC | 14 + Dex modifier (max 2)",
+      "property | Weight | 20lb",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs.",
+      "fill | 3"
+    ],
+    "tags": [
+      "armor",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Cloak of Arachnida",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:",
+      "bullet | You have resistance to poison damage.",
+      "bullet | You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.",
+      "picture | (A) You have a climbing speed equal to your walking speed.",
+      "picture | (A) You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.",
+      "picture | (Awaken) You can use an action to cast the <i>web</i> spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.",
+      "fill | 3"
+    ],
+    "tags": [
+      "wondrous",
+      "very rare"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Hat of Trickery",
+    "icon": "top-hat",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | This hat has 3 charges. While you wearing it, you can use an action and expend 1 charge to cast folowing spells",
+      "text | The hat regains all expended charges daily at dawn.",
+      "bullet | <i>disguise self</i> (save DC 13)",
+      "bullet | <i>Thaumaturgy</i>",
+      "picture | <A> Illusory Script as a Concentration spell. ",
+      "picture | <A> Bag of trickery (1 each time) ",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Pearl of Power",
+    "icon": "pearl-necklace",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement | Yes (Spellcaster)",
+      "rule",
+      "fill | 0.5",
+      "text | While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn.",
+      "fill | 3",
+      "boxes | 1 |  2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Splint Armor of Toxic Cloud",
+    "title_size": "10",
+    "icon": "shoulder-armor",
+    "contents": [
+      "subtitle | Heavy armor",
+      "rule",
+      "property | AC | 17",
+      "property | Stealth | Disadvantage",
+      "rule",
+      "fill | 0.5",
+      "text | This armor has 2 charges. As an action you can expend a charge to cast <b>toxic cloud</b>. A puff of noxious gas released from your armor and target a creature within 5 feet. The creature must successed on a Constitution saving throw (DC13) or take 1d12 poison damage. This item regains all expended charges at dawn.",
+      "fill | 3",
+      "boxes | 2 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  }
+]

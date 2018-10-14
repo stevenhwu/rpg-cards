@@ -1,0 +1,97 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Tankard of Sobriety",
+    "icon": "beer-stein",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.5",
+      "text | This tankard has a stern face sculpted into one side. You can drink ale, wine, or any other nonmagical alcoholic beverage poured into it without becoming inebriated.",
+      "text | The tankard has no effect on magical liquids or harmful subs tances such as poison.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "wondrous"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Staff of Flowers",
+    "icon": "wizard-staff",
+    "contents": [
+      "subtitle | Staff",
+      "rule",
+      "property | Maximum charges | 10",
+      "property | Recharge | 1d6+4 daily at dawn",
+      "rule",
+      "fill | 0.5",
+      "text | You can use an action to expend 1 charge from the wooden staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a s pecific kind of flower, the staff creates a mild-scented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would.",
+      "text | If you expend the last charge, roll a d20. On a 1, the staff turns into flower petals and is lost forever.",
+      "boxes | 10 |  1.5"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "staff"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Orb of Time",
+    "icon": "crystal-ball",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.5",
+      "text | While holding this orb, you can use an action to determine whether it is morning, afternoon, evening, or nighttime outside. This property functions only on the Material Plane.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "wondrous"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Pole of Angling",
+    "icon": "fishing-pole",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.5",
+      "text | While holding this 10-foot pole, you can speak a command word and transform it into a fishing pole with a hook, a line, and a reel. Speaking the command word again changes the fishing pole back into a normal 10-foot pole.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "wondrous"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Compass of True North",
+    "icon": "compass",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.5",
+      "text | Unlike other compasses, it didn't point north. The compass could not be used to navigate in a conventional sense, but it does direct the owner to whatever he or she wanted most at the moment.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "wondrous"
+    ]
+  }
+]

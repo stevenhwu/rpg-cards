@@ -1,0 +1,22 @@
+{
+  "count": 1,
+  "color": "Gray",
+  "title": "Vial of ???",
+  "icon": "corked-tube",
+  "contents": [
+    "subtitle | Vial",
+    "rule",
+    "property | Use time | 1 action",
+    "property | Thown | 20/20",
+    "rule",
+    "fill | 0.5",
+    "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+    "text | On a hit, ...",
+    "text | ",
+    "fill | 3"
+  ],
+  "tags": [
+    "vial",
+    "consumable"
+  ]
+}

@@ -1,0 +1,283 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Fire",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, the target takes 1d8 fire damage.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Cold",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, the target takes 1d8 cold damage.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Lightning",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, the target takes 1d8 lightning damage.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Thunder",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, the target takes 1d8 thunder damage.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Blade Ward",
+    "title_size": "10",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Range | Self",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this vial, you gain resistance against bludgeoning, piercing, and slashing damage dealt by weapon intil the end of your next turn.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Light",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Range | Touch",
+      "property | Duration | 1 hour",
+      "property | Save DC | 13",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a object that is no larger than 10 feet in any dimension. The object sheds bright light in a 20-foot radius and dim light for an additional 20 feet for 1 hour.",
+      "text | Completely covering the object with something opaque blocks the light.",
+      "text | If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the vial.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Poison Spray",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "property | Save DC | 13",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, a puff of noxious gas released from the vial. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.",
+      "text | ",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Sacred Flame",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "property | Save DC | 13",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact.",
+      "text | The target must succeed on a Dexterity saving throw or take 1d8 radiant damage.",
+      "text | ",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Empowered Weapon",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Range | Touch",
+      "property | Duration | 1 minute",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a weapon. The weapon's damage die becomes a d8. The weapon also becomes magical.",
+      "picture | from Shillelagh",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Spare the Dying",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Range | Touch",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you gave this vial to a living creature that has 0 hit points. The creature becomes stable.",
+      "text | This vial has no effect on undead or constructs.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Thorn Whip",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, the target takes 1d6 piercing damage.",
+      "text | If the creature is Large or smaller, you can pull/push the cerature 5 feet closer/away from you.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of True Strike",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Range | Self",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this potion, you gain advantage on your first attack roll against one target on your next turn.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Vial of Psychic",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Vial",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Thown | 20/20",
+      "rule",
+      "fill | 0.5",
+      "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
+      "text | On a hit, the target takes 1d4 psychic damage, and have disadvantage on the next attach roll it makes before the end of its next turn.",
+      "fill | 3"
+    ],
+    "tags": [
+      "vial",
+      "consumable"
+    ]
+  }
+]

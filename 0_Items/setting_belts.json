@@ -1,0 +1,42 @@
+[
+  {
+    "count": 4,
+    "color": "Gray",
+    "title": "Belt with scroll tube",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous, Belt",
+      "rule",
+      "fill | 0.5",
+      "text | This scroll tube holds 3 scrolls and allows quick access during combat.",
+      "text | The scrolls in tube are resistance to fire and water damage.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "belt",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 4,
+    "color": "Gray",
+    "title": "Belt with vial holder",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous, Belt",
+      "rule",
+      "fill | 0.5",
+      "text | This vial holder holds 3 vials and allow quick access during combat.",
+      "text | The vials in the holder are resistance to minor damage.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "belt",
+      "uncommon"
+    ]
+  }
+]
