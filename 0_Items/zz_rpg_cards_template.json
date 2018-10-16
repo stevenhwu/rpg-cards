@@ -1,9 +1,10 @@
 [
   {
     "count": 1,
-    "color": "Gray",
+    "color": "maroon",
     "title": "Burning Hands",
     "icon": "white-book-1",
+    "icon_back": "robe",
     "contents": [
       "subtitle | 1st level evocation",
       "rule",
@@ -28,6 +29,7 @@
     "color": "indigo",
     "title": "Cunning Action",
     "icon": "white-book",
+    "icon_back": "cloak-dagger",
     "contents": [
       "subtitle | Rogue feature",
       "rule",
@@ -115,13 +117,21 @@
     "count": 1,
     "color": "dimgray",
     "title": "Wand of Magic Missiles",
-    "icon": "compass",
+    "icon": "crystal-wand",
     "contents": [
       "subtitle | Wondrous item",
-      "text | This wooden staff has 10 charges. While holding it, you can use an action to expend 1 charge from the staff and cause a flower to sprout from a patch of earth or soil within 5 feet of you, or from the staff itself. Unless you choose a s pecific kind of flower, the staff creates a mild-scented daisy. The flower is harmless and nonmagical, and it grows or withers as a normal flower would.",
-      "text | The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns into flower petals and is lost forever.",
+      "rule",
+      "property | Maximum charges | 7",
+      "property | Recharge | 1d6+1 each day",
+      "property | Depletion | If you expend the last charge, roll a d20. On a 1, the item is destroyed.",
+      "rule",
+      "fill | 2",
+      "description | Spells | You can use your action to cast the following spells:",
+      "bullet | magic missile, 1st level (1 charge)",
+      "bullet | magic missile, 2nd level (2 charges)",
+      "bullet | magic missile, 3rd level (3 charges)",
       "fill | 3",
-      "boxes | 10 |  1.5"
+      "boxes | 7 | 2.5"
     ],
     "tags": [
       "item",
