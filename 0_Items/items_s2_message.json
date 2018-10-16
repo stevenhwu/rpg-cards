@@ -1,0 +1,28 @@
+[
+{
+  "count": 1,
+  "color": "Gray",
+  "title": "Sealed message from the Queen",
+  "title_size": "10",
+  "icon": "wax-seal",
+  "contents": [
+    "subtitle | Head towards <b>Stilben</b> for resupply at the guild house. <br> Search <b>Summit Peaks</b> regardless whether you got any intel from Mooren Lake.",
+    "fill | 3",
+    "rule",
+    "text | <i>Cassandra de Rolo R</i>"
+  ]
+},
+{
+  "count": 1,
+  "color": "Gray",
+  "title": "Message for Kate Irwin",
+  "icon": "tied-scroll-icon",
+  "contents": [
+    "subtitle | Dear Kate, <br> These adventures are trustworthy, please help if you can.",
+    "fill | 2",
+    "text | 2 lizard tails, eye ball from the bat, 1 coffee bean and pixie dust at Deliscour Lake.",
+    "text | <i>Zevol Coma</i>"
+    
+  ]
+}
+]
