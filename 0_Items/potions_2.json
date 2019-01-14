@@ -1,0 +1,161 @@
+[
+  {
+    "count": 9,
+    "color": "Gray",
+    "title": "Antidote",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this potion, it removes all poisons currently affecting you as well as the poisoned condition. All effects suffered as a result of poisons are instantly cured. The potion's pink fluid constantly swirls and roils, containing a strong floral essence.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Potion of Climbing",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this potion , you gain a climbing speed equal to your walking speed for 1 hour. During this rime, you have advantage on Strength (Athletics) checks you make to climb. The potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Potion of Animal Friendship",
+    "title_size": "10",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this potion, you can cast the animal friendship s pell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Potion of Fire Breath",
+    "title_size": "10",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a s uccessful one. The effect t;nds after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened. ",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Potion of Growth",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this potion, you gain the <i>enlarge</i> effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Potion of Water Breathing",
+    "title_size": "10",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Potion of Poison",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "rule",
+      "fill | 0.5",
+      "text | This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actpally poison masked by illusion magic. An identify spell reveals its true nature.",
+      "text | If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  },
+  {
+    "count": 6,
+    "color": "Gray",
+    "title": "Potion of Greater Healing",
+    "title_size": "10",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Hit points restored | 4d4+2",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this red fluid in this vial, you regain 4d4+2 hitpoints.",
+      "text | Drinking or administering a potion takes 1 action.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "consumable"
+    ]
+  }
+]

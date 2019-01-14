@@ -1,0 +1,59 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Token for The Lawbearer temple",
+    "title_size": "10",
+    "icon": "greek-temple",
+    "contents": [
+      "subtitle | Trinket",
+      "rule",
+      "fill | 0.5",
+      "text | You are a trustworthy member of The Lawbearer temple",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "trinket"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Unknown pink pendant",
+    "icon": "gem-necklace",
+    "contents": [
+      "subtitle | Trinket",
+      "rule",
+      "fill | 0.5",
+      "text | Drop from a little girl at Stilben.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "trinket"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Ring of warmth",
+    "icon": "ring",
+    "contents": [
+      "subtitle | Ring",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as - 50 degrees Fahrenheit.",
+      "fill | 3"
+    ],
+    "tags": [
+      "item",
+      "common",
+      "ring"
+    ]
+  }
+]
