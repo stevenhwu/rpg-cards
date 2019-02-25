@@ -1,0 +1,45 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Royal Sentinel Armor",
+    "icon": "shoulder-armor",
+    "contents": [
+      "subtitle | Heavy armor, Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "property | Stealth | Disadvantage",
+      "rule",
+      "description | Taunt (1 Charge) | As a bonus action, you can taunt a target within 5 feet. The target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.",
+      "description | Sacrifice (2 Charges)| As a reaction action, you can transfer damage (non AOE) to an ally (within 5 feet) to yourself.",
+      "text | Regain all charges after a long rest.",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Empty vial of preserving poision/sweat",
+    "title_size": "10",
+    "icon": "corked-tube",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Patternback only |",
+      "rule",
+      "fill | 0.5",
+      "text | You can store your sweat in this vial once per long rest.",
+      "text | As a bonus action, you can coat a slashing or piercing weapon or up to three pieces of ammunition with your sweat in this vial.",
+      "fill | 3",
+      "boxes | 1 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Throwing Hatchet of Entanglement",
+    "title_size": "9",
+    "icon": "wood-axe",
+    "contents": [
+      "subtitle | Simple melee weapon",
+      "rule",
+      "property | Damage | 1d6 slashing",
+      "property | Properties | Light, Thrown (20/60)",
+      "rule",
+      "text | This hatchet is well-balanced for throwing and has carved vines throughout the handle.  When it is thrown and hits, vines sprout from the axe and the target must make a STR Save (DC 13) or be restrained as if by an Entangle spell.",
+      "text | With a command word, the owner can dismiss the spell. Any entangled creatures are freed. The hatchet remains on the ground.",
+      "text | Proficiency with a handaxe allows you to add your proficiency bonus to the attack roll.",
+      "fill | 3"
+    ]
+  },
+  {
+    "count": 5,
+    "color": "Gray",
+    "title": "Guild Token",
+    "icon": "rosa-shield",
+    "contents": [
+      "subtitle | Light of the Lost Age",
+      "rule",
+      "fill | 0.5",
+      "picture | /home/steven/Other/Project_TalDorei/images/LOLA_Zentopia_Symbol_orig.png | 100",
+      "fill | 1",
+      "picture | /home/steven/Other/Project_TalDorei/images/Rankings_silver1.png | 100",
+      "section | Rank B",
+      "fill | 2"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Compass of Zephrah",
+    "icon": "compass",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.5",
+      "text | This compass guilds to you the location of Zephrah (Air Ashari).",
+      "fill | 3"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Orc Wrestling Champion's Belt",
+    "title_size": "10",
+    "icon": "belt-armor",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement | Yes. Orcs, half-orcs only ",
+      "property | Maximum charges | 3",
+      "rule",
+      "fill | 0.5",
+      "text | This belt has 3 charges. While wearing this belt, you can spend 1 charge to gain advantage on <b>Grappling</b> and <b>Shoving</b> check.",
+      "text | The belt regains 1d4 charges after a short or long rest.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  }
+]
