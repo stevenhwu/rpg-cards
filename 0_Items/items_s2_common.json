@@ -84,9 +84,11 @@
     "contents": [
       "subtitle | Wondrous",
       "rule",
-      "fill | 0.5",
+      "fill | 0.2",
       "text | Unlike other compasses, it didn't point north. The compass could not be used to navigate in a conventional sense, but it does direct the owner to whatever he or she wanted most at the moment.",
-      "fill | 3"
+      "fill | 0.3",
+      "picture | /home/steven/Other/Project_TalDorei/images/Piratecompass600.jpg | 120",
+      "fill | 0.2"
     ],
     "tags": [
       "item",

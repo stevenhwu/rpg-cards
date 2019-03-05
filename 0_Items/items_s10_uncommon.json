@@ -9,9 +9,10 @@
       "rule",
       "property | Attunement | Yes",
       "property | Stealth | Disadvantage",
+      "property | DC | 8 + Prof + STR/DEX Mod",
       "rule",
-      "description | Taunt (1 Charge) | As a bonus action, you can taunt a target within 5 feet. The target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.",
-      "description | Sacrifice (2 Charges)| As a reaction action, you can transfer damage (non AOE) to an ally (within 5 feet) to yourself.",
+      "description | Taunt (1 Charge) | Bonus action: You can taunt a target within 5 feet. The target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.",
+      "description | Sacrifice (2 Charges) | Reaction: you can transfer (non AOE) damage to an ally within 5 feet to yourself.",
       "text | Regain all charges after a long rest.",
       "boxes | 3 | 2"
     ],
@@ -23,7 +24,7 @@
   {
     "count": 1,
     "color": "Gray",
-    "title": "Empty vial of preserving poision/sweat",
+    "title": "Empty vial of preserving poision",
     "title_size": "10",
     "icon": "corked-tube",
     "contents": [
@@ -33,9 +34,48 @@
       "rule",
       "fill | 0.5",
       "text | You can store your sweat in this vial once per long rest.",
-      "text | As a bonus action, you can coat a slashing or piercing weapon or up to three pieces of ammunition with your sweat in this vial.",
+      "text | As a bonus action, you can coat a slashing or piercing weapon or up to three pieces of ammunition with your this vial.",
+      "text | Howere, the posion is less potent in this vial. The duration is halfed 1d4/2, 1d6/2, 1d8/2, 1d10/2 rounds. Minimum 1 round. A creature affected by curare sweat can attempt a new saving throw at the end of each of its turns to end the effect.",
       "fill | 3",
       "boxes | 1 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Compass of Zephrah",
+    "icon": "compass",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.5",
+      "text | This compass points to the location of Zephrah (Air Ashari).",
+      "fill | 2",
+      "picture | /home/steven/Other/Project_TalDorei/images/log_pose.jpg | 120",
+      "fill | 1"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Orc Wrestling Champion's Belt",
+    "title_size": "10",
+    "icon": "belt-armor",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement | Yes. Orcs, half-orcs only ",
+      "property | Maximum charges | 3",
+      "rule",
+      "fill | 0.5",
+      "text | This belt has 3 charges. While wearing this belt, you can spend 1 charge to gain advantage on <b>Grappling</b> and <b>Shoving</b> check.",
+      "text | The belt regains 1d4 charges after a short or long rest.",
+      "fill | 3",
+      "boxes | 3 | 2"
     ],
     "tags": [
       "wondrous",
