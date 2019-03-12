@@ -1,0 +1,473 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Wand of Secrets",
+    "icon": "crystal-wand",
+    "contents": [
+      "subtitle | Wand",
+      "rule",
+      "property | Maximum charges | 3",
+      "property | Recharge | 1d3 daily at dawn",
+      "rule",
+      "fill | 1",
+      "text | The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Cloak of Elvenkind",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.2",
+      "text | While you wear this cloak with its hood up, <b>Wisdom (Perception)</b> checks made to see you have disadvantage, and you have advantage on <b>Dexterity (Stealth)</b> checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Cloak of Billowing",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While wearing this cloak, you can use a bonus action to make it billow dramatically."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Bead of Nourishment",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations.",
+      "boxes | 10 | 1.5"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Bead of Refreshment",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This spongy, flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water. The bead has no effect on magical liquids or harmful substances such as poison.",
+      "boxes | 10 | 1.5"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Candle of the Deep",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Cloak of Many Fashions",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While wearing this cloak, you can use a bonus action to change the style, color, and apparent quality of the garment. The cloak’s weight doesn’t change. Regardless of its appearance, the cloak can’t be anything but a cloak. Although it can duplicate the appearance of other magic cloaks, it doesn’t gain their magical properties."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Clockwork Amulet",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This copper amulet contains tiny interlocking gears and is powered by magic from Mechanus, a plane of clockwork predictability. A creature that puts an ear to the amulet can hear faint ticking and whirring noises coming from within.<br> When you make an attack roll while wearing the amulet, you can forgo rolling the d20 to get a 10 on the die. Once used. this property can’t be used again until the next dawn."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Clothes of Mending",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This elegant outfit of traveler’s clothes magically mends itself to counteract daily wear and tear. Pieces of the outfit that are destroyed can’t be repaired in this way."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Dread Helm",
+    "icon": "elf-helmet",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This fearsome steel helm makes your eyes glow red while you wear."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Ear Horn of Hearing",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While held up to your ear, this horn suppresses the effects of the deafened condition on you, allowing you to hear normally."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Heward’s Handy Spice Pouch",
+    "title_size": "10",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Maximum charges | 10",
+      "property | Recharge | 1d6+4 daily at dawn",
+      "rule",
+      "fill | 0.1",
+      "text | This belt pouch appears empty and has 10 charges. While holding the pouch, you can use an action to expend 1 of its charges, speak the name of any nonmagical food seasoning (such as salt, pepper, saffron, or cilantro), and remove a pinch of the desired seasoning from the pouch. A pinch is enough to season a single meal. The pouch regains 1d6 + 4 expended charges daily at dawn.",
+      "fill | 3",
+      "boxes | 10 | 1.5"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Horn of Silent Alarm",
+    "icon": "hunting-horn",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Maximum charges | 4",
+      "property | Recharge | 1d4 daily at dawn",
+      "rule",
+      "fill | 0.1",
+      "text | This horn has 4 charges. When you use an action to blow it, one creature of your choice can hear the horns blare, provided the creature is within 600 feet of the horn and not deafened. No other creature hears sound coming from the horn. The horn regains 1d4 expended charges daily at dawn.",
+      "fill | 3",
+      "boxes | 4 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Instrument of Illusions",
+    "icon": "music-spell",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While you are playing this musical instrument, you can create harmless, illusory visual effects within a 5—foot—radius sphere centered on the instrument. If you are a bard, the radius increases to 15 feet. Sample Visual effects include luminous musical notes, a spectral dancer, butterflies, and gently falling snow. The magical effects have neither substance nor sound, and they are obviously illusory. The effects end when you stop playing."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Lock of Trickery",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This lock appears to be an ordinary lock and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have disadvantage."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Mystery Key",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | A question mark is worked into the head of this key. The key has a 5 percent chance of unlocking any lock into which it’s inserted. Once it unlocks something, the key disappears."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Orb of Direction",
+    "icon": "crystal-ball",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While holding this orb, you can use an action to determine which way is north. This property functions only on the Material Plane."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Perfume of Bewitching",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | This tiny vial contains magic perfume, enough for one use. You can use an action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have advantage on all Charisma checks directed at humanoids of challenge rating 1 or lower. Those subjected to the perfume’s effect are not aware that they’ve been influenced by magic."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Pipe of Smoke Monsters",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While smoking this pipe, you can use an action to exhale a puff of smoke that takes the form of a single creature, such as a dragon, a flumph, or a froghemoth. The form must be small enough to fit in a 1-foot cube and loses its shape after a few seconds, becoming an ordinary puff of smoke."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Pole of Collapsing",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | While holding this 10—foot pole, you can use an action to speak a command word and cause it to collapse into a l-foot-long rod, for ease of storage. The poles weight doesn’t change. You can use an action to speak a different command word and cause the rod to revert to a pole; however, the rod will elongate only as far as the surrounding space allows."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Pot of Awakening",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | lf you plant an ordinary shrub in this lO-pound clay pot and let it grow for 30 days, the shrub magically transforms into an <b>awakened shrub</b> (see the Monster Manual for statistics) at the end of that time. When the shrub awakens, its roots break the pot, destroying it. The awakened shrub is friendly toward you. Absent commands from you, it does nothing."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Rope of Mending",
+    "icon": "shiny-purse",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | You can cut this 50-foot coil of hempen rope into any number of smaller pieces, and then use an action to speak a command word and cause the pieces to knit back together. The pieces must be in contact with each other and not otherwise in use. A rope of mending is forever shortened if a section of it is lost or destroyed."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Shield of Expression",
+    "icon": "cross-shield",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | The front of this shield is shaped in the likeness of a face. While bearing the shield, you can use a bonus action to alter the faces expression."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Smoldering Cloak",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "fill | 0.1",
+      "text | Wisps of harmless, odorless smoke rise from this cloak while it is worn."
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Wand of Conducting",
+    "icon": "crystal-wand",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Maximum charges | 3",
+      "property | Recharge | all charges daily at dawn",
+      "rule",
+      "fill | 0.1",
+      "text | This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and create orchestral music by waving it around. The music can be heard out to a range of 60 feet and ends when you stop waving the wand.",
+      "text | The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, a sad tuba sound plays as the wand crumbles to dust and is destroyed.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Wand of Scowl",
+    "icon": "crystal-wand",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Maximum charges | 3",
+      "property | Recharge | all charges daily at dawn",
+      "rule",
+      "fill | 0.1",
+      "text | This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to scowl for 1 minute.",
+      "text | The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand transforms into a wand of smiles.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Wand of Smile",
+    "icon": "crystal-wand",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Maximum charges | 3",
+      "property | Recharge | all charges daily at dawn",
+      "rule",
+      "fill | 0.1",
+      "text | This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a DC 10 Charisma saving throw or be forced to smile for 1 minute.",
+      "text | The wand regains all expended charges daily at dawn. If you expend the wand’s last charge, roll a d20. On a 1, the wand transforms into a wand of scowls.",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "common"
+    ]
+  }
+]
