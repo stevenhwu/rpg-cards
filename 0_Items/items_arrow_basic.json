@@ -1,0 +1,257 @@
+[
+  {
+    "count": 3,
+    "color": "Gray",
+    "title": "Minor magic arrow - Fire",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of red crystal. When fired, the arrow turns into a red ray.",
+      "text | On a hit, the target takes 1d10 fire damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 5 | 1.5"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "Gray",
+    "title": "Minor magic arrow - Acid",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of orange crystal. When fired, the arrow turns into a orange ray.",
+      "text | On a hit, the target takes 1d10 acid damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 5 | 1.5"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "Gray",
+    "title": "Minor magic arrow - Lightning",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of yellow crystal. When fired, the arrow turns into a yellow ray.",
+      "text | On a hit, the target takes 1d10 lightning damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 5 | 1.5"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "Gray",
+    "title": "Minor magic arrow - Poison",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of green crystal. When fired, the arrow turns into a green ray.",
+      "text | On a hit, the target takes 1d10 poison damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 5 | 1.5"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "Gray",
+    "title": "Minor magic arrow - Cold",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of blue crystal. When fired, the arrow turns into a blue ray.",
+      "text | On a hit, the target takes 1d10 cole damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 5 | 1.5"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Std. magic arrow - Fire",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of red crystal. When fired, the arrow turns into a red ray.",
+      "text | On a hit, the target takes 2d10 fire damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 3 | 1.5"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Std. magic arrow - Acid",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of orange crystal. When fired, the arrow turns into a orange ray.",
+      "text | On a hit, the target takes 2d10 acid damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 3 | 1.5"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Std. magic arrow - Lightning",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of yellow crystal. When fired, the arrow turns into a yellow ray.",
+      "text | On a hit, the target takes 2d10 lightning damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 3 | 1.5"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Std. magic arrow - Poison",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of green crystal. When fired, the arrow turns into a green ray.",
+      "text | On a hit, the target takes 2d10 poison damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 3 | 1.5"
+    ]
+  },
+  {
+    "count": 2,
+    "color": "Gray",
+    "title": "Std. magic arrow - Cold",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of blue crystal. When fired, the arrow turns into a blue ray.",
+      "text | On a hit, the target takes 2d10 cold damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+      "boxes | 3 | 1.5"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Greater magic arrow - Fire",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of red crystal. When fired, the arrow turns into a red ray.",
+      "text | On a hit, the target takes 3d10 fire damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Greater magic arrow - Acid",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of orange crystal. When fired, the arrow turns into a orange ray.",
+      "text | On a hit, the target takes 3d10 acid damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Greater magic arrow - Lightning",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of yellow crystal. When fired, the arrow turns into a yellow ray.",
+      "text | On a hit, the target takes 3d10 lightning damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Greater magic arrow - Poison",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of green crystal. When fired, the arrow turns into a green ray.",
+      "text | On a hit, the target takes 3d10 poison damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Greater magic arrow - Cold",
+    "icon": "flaming-arrow",
+    "title_size": "10",
+    "contents": [
+      "subtitle | Consumable",
+      "rule",
+      "fill | 0.5",
+      "text | This arrow's tip is formed of blue crystal. When fired, the arrow turns into a blue ray.",
+      "text | On a hit, the target takes 3d10 cold damage.",
+      "text | Wheather you hit or miss, the arrow disappears and damages normal bow.",
+      "fill | 3",
+
+    ]
+  }  
+]

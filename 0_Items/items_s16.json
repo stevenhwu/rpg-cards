@@ -1,0 +1,73 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Magic long bow from Thoreous",
+    "title_size": "10",
+    "icon": "lightning-bow",
+    "contents": [
+      "subtitle | Magic Long bow",
+      "rule",
+      "text | Fire magic arrows without damaging to the bow.",
+      "text | Maximum 1 magic arrow per round",
+      "text | Other unknown properties.",
+      "fill | 3",
+      "text | <i>Thoreous: It gets better over time</i>"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Bow of absorbing crystal energy",
+    "title_size": "10",
+    "icon": "bow-arrow",
+    "contents": [
+      "subtitle | Bow",
+      "rule",
+      "text | Fire magic arrows without damaging to the bow.",
+      "text | Maximum 1 magic arrow per round"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Map - Wrongteous",
+    "icon": "treasure-map",
+    "contents": [
+      "subtitle | Map",
+      "rule",
+      "fill | 0.1",
+      "property | Undeciphered Map | ",
+      "text | Map from Xylia. Related to the famous pirate Pallon the Pious",
+      "fill | 1"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Map - Righteous",
+    "icon": "treasure-map",
+    "contents": [
+      "subtitle | Map",
+      "rule",
+      "fill | 0.1",
+      "property | Undeciphered Map | ",
+      "text | Map from Xylia. Related to the famous pirate Pallon the Pious",
+      "fill | 1"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Unknown treasure maps",
+    "icon": "treasure-map",
+    "contents": [
+      "subtitle | Map",
+      "rule",
+      "fill | 0.1",
+      "property | Undeciphered Map | ",
+      "text | Map from Xylia. Related to unknow artifact.",
+      "fill | 1"
+    ]
+  }
+]
