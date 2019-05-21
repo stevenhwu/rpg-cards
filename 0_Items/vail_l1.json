@@ -1,8 +1,8 @@
 [
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of fire breath",
-  "title_size": "10",
+  "title": "Vial of Fire Breath",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -16,7 +16,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Comprehend Languages",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -31,7 +31,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Detect Evil and Good",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -46,7 +46,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Detect Magic",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -61,7 +61,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Detect Poison and Disease",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -72,11 +72,11 @@
     "fill | 0.5",
     "text | For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case. The effect can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
     "fill | 3"
-]}
+]},
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of Divine favor",
-  "title_size": "10",
+  "title": "Vial of Divine Favor",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -91,7 +91,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of False Life",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -105,8 +105,8 @@
 ]},
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of Guiding bolt",
-  "title_size": "10",
+  "title": "Vial of Guiding Bolt",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -121,7 +121,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Heroism",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -136,7 +136,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Inflict Wounds",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -151,7 +151,7 @@
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
   "title": "Vial of Jump",
-  "title_size": "10",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -165,8 +165,8 @@
 ]},
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of longstrider",
-  "title_size": "10",
+  "title": "Vial of Longstrider",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -180,8 +180,8 @@
 ]},
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of Ray of sickness",
-  "title_size": "10",
+  "title": "Vial of Ray of Sickness",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -192,10 +192,10 @@
     "text | As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object.",
     "text | On a hit, the target takes 2d8 poison damage and must make a Constitution saving throw (DC 10 + your proficiency bonus). On a failed save, it is also poisoned until the end of your next turn.",
     "fill | 3"
-]}
+]},
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of longstrider",
+  "title": "Vial of Speaking with Animals",
   "title_size": "10",
   "contents": [
     "subtitle | Vial",
@@ -210,8 +210,8 @@
 ]},
 {"color": "Gray", "count": 1,
   "icon": "corked-tube",
-  "title": "Vial of thunder breath",
-  "title_size": "10",
+  "title": "Vial of Thunder Breath",
+  "title_size": "11",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -219,7 +219,7 @@
     "property | Range | Self (15-foot cone)",
     "rule",
     "fill | 0.5",
-    "text | You open your mouth and wave of thunderous force sweeps out from you. Each creature in a 15-foot cone must make a Constitution saving throw (DC 10 + your proficiency bonus). On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+    "text | A wave of thunderous force sweeps out from your mouth. Each creature in a 15-foot cone must make a Constitution saving throw (DC 10 + your proficiency bonus). On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
     "fill | 3"
 ]}
 ]

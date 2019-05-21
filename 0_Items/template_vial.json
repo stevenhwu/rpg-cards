@@ -1,8 +1,7 @@
-{
-  "count": 1,
-  "color": "Gray",
-  "title": "Vial of ???",
+{"color": "Gray", "count": 1,
   "icon": "corked-tube",
+  "title": "Vial of ???",
+  "title_size": "10",
   "contents": [
     "subtitle | Vial",
     "rule",
@@ -14,9 +13,22 @@
     "text | On a hit, ...",
     "text | ",
     "fill | 3"
-  ],
-  "tags": [
-    "vial",
-    "consumable"
-  ]
-}
+]},
+
+{"color": "Gray", "count": 1,
+  "icon": "corked-tube",
+  "title": "Vial of ???",
+  "title_size": "10",
+  "contents": [
+    "subtitle | Vial",
+    "rule",
+    "property | Use time | 1 action",
+    "property | Range | Self",
+    "property | Concentration | 10 minutes",
+    "rule",
+    "fill | 0.5",
+    "text | ",
+    "fill | 3"
+]},
+
+"property | Duration | 1 hour",

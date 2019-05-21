@@ -1,20 +1,17 @@
 [
-  {
-    "count": 3,
-    "color": "Gray",
-    "title": "Magic arrow +1",
-    "icon": "flaming-arrow",
-    "title_size": "10",
-    "contents": [
-      "subtitle | Consumable",
-      "rule",
-      "fill | 0.5",
-      "text | You have a +1 bonus to Attack and Damage Rolls made with this piece of magic arrow."
-      "text | Wheather you hit or miss, the arrow is no longer magical.",
-      "fill | 3",
-      "boxes | 5 | 1.5"
-    ]
-  },
+  {"color": "Gray", "count": 3,
+  "title": "Magic arrow +1",
+  "icon": "flaming-arrow",
+  "title_size": "10",
+  "contents": [
+    "subtitle | Consumable",
+    "rule",
+    "fill | 0.5",
+    "text | You have a +1 bonus to Attack and Damage Rolls made with this piece of magic arrow."
+    "text | Wheather you hit or miss, the arrow is no longer magical.",
+    "fill | 3",
+    "boxes | 5 | 1.5"
+  ]},
   {
     "count": 3,
     "color": "Gray",
