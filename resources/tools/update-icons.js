@@ -15,8 +15,8 @@ const imgDir = "./generator/img";
 const customIconDir = "./resources/custom-icons";
 const cssPath = "./generator/css/icons.css";
 const jsPath = "./generator/js/icons.js";
-//const processIconsCmd = "mogrify -background white -alpha shape *.png";
-const processIconsCmd = `mogrify -alpha copy -channel-fx "red=100%, blue=100%, green=100%" *.png`
+const processIconsCmd = "mogrify -background white -alpha shape *.png";
+//const processIconsCmd = `mogrify -alpha copy -channel-fx "red=100%, blue=100%, green=100%" *.png`
 
 
 // ----------------------------------------------------------------------------
@@ -168,7 +168,7 @@ function copyAll(src, dest) {
 }
 
 fse.emptyDir(tempDir)
-.then(() => downloadFile(gameIconsUrl, tempFilePath))
+//.then(() => downloadFile(gameIconsUrl, tempFilePath))
 .then(() => unzipAll(tempFilePath, tempDir))
 .then(() => copyAll(tempDir, imgDir))
 .then(() => copyAll(customIconDir, imgDir))
