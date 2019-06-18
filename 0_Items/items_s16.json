@@ -59,14 +59,14 @@
   {
     "count": 1,
     "color": "Gray",
-    "title": "Unknown treasure maps",
+    "title": "Map - Unknown magical treasure map",
     "icon": "treasure-map",
     "contents": [
       "subtitle | Map",
       "rule",
       "fill | 0.1",
       "property | Undeciphered Map | ",
-      "text | Map from Xylia. Related to unknow artifact.",
+      "text | Map from Xylia. Related to an unknow artifact.",
       "fill | 1"
     ]
   }

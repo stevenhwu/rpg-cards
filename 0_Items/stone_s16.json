@@ -1,0 +1,58 @@
+[
+  {"count": 1, "color": "Gray", "icon": "crystal-shine",
+    "title": "Stone of Awareness",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect. A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.",
+      "fill | 0.1",
+      "bullet | You can't be surprised while this dark blue rhomboid orbits your head.",
+      "text | ",
+      "fill | 0.3"
+  ]},
+  {"count": 1, "color": "Gray", "icon": "crystal-shine",
+    "title": "Stone of Levitation",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect. A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.",
+      "fill | 0.1",
+      "bullet | You can use this lavender ellipsoid to levitate 2 feet off the ground at will.",
+      "text | ",
+      "fill | 0.3"
+  ]},
+  {"count": 1, "color": "Gray", "icon": "crystal-shine",
+    "title": "Stone of Vitality",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect. A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.",
+      "fill | 0.1",
+      "bullet | You can command this brass lozenge to add 2d4 + 2 temporary hit points that last for an hour.  You can use this ability once per long rest.",
+      "text | ",
+      "fill | 0.3"
+  ]},
+  {"count": 1, "color": "Gray", "icon": "crystal-shine",
+    "title": "Stone of Gaseous Form",
+    "contents": [
+      "subtitle | Wondrous",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect. A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.",
+      "fill | 0.1",
+      "bullet | Using this brown rhomboid the user and 200 lbs. of possessions can assume a gaseous form for a one-hour duration, once per long rest.",
+      "text | ",
+      "fill | 0.3"
+  ]}
+]

@@ -1,0 +1,21 @@
+[
+  {"color": "Gray", "count": 1,
+    "title": "Odachi of Blood ",
+    "title_size": "10",
+    "icon": "katana",
+    "contents": [
+      "subtitle | Great Sword",
+      "rule",
+      "property | Attunement | Yes.",
+      "property | Heavy, Two-Handed, Reach, Special |",
+      "rule",
+      "fill | 0.1",
+      "text | This odachi is too large to wield normally unless you meet a specific strength requirement. You must have a Strength score of at least 18 or suffer disadvantage on all attacks made with this weapon",
+      "text | It deals 2d6 slashing damage, and an additional 1d6 necrotic damage against living creatures (not undead or a construct).",
+      "fill | 0.1",
+      "property | Extra long blade | You have disadvantage when you try to attack an enemy within 5 feet of you.",
+      "property | Bloodstirsty | When you attack a creature with this weapon and roll a 20 on the attack roll, you gain 2d6 temporary hit points.",
+      "property | Hunger | When you attack a creature with this weapon and roll a 1 on the attack roll. You lost all your temporary hit points, and take 2d4 necrotic damage."
+    ]
+  }
+]
