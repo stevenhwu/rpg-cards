@@ -4,7 +4,7 @@
   "title": "Vial of Fire Breath",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self (15-foot cone)",
@@ -18,7 +18,7 @@
   "title": "Vial of Comprehend Languages",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -33,7 +33,7 @@
   "title": "Vial of Detect Evil and Good",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -48,7 +48,7 @@
   "title": "Vial of Detect Magic",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -63,7 +63,7 @@
   "title": "Vial of Detect Poison and Disease",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -78,7 +78,7 @@
   "title": "Vial of Divine Favor",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 bonus action",
     "property | Range | Self",
@@ -93,7 +93,7 @@
   "title": "Vial of False Life",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -108,7 +108,7 @@
   "title": "Vial of Guiding Bolt",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Thown | 20/20",
@@ -123,7 +123,7 @@
   "title": "Vial of Heroism",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -138,7 +138,7 @@
   "title": "Vial of Inflict Wounds",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | 5ft",
@@ -153,7 +153,7 @@
   "title": "Vial of Jump",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -168,7 +168,7 @@
   "title": "Vial of Longstrider",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -183,7 +183,7 @@
   "title": "Vial of Ray of Sickness",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Thown | 20/20",
@@ -198,7 +198,7 @@
   "title": "Vial of Speaking with Animals",
   "title_size": "10",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self",
@@ -213,7 +213,7 @@
   "title": "Vial of Thunder Breath",
   "title_size": "11",
   "contents": [
-    "subtitle | Vial",
+    "subtitle | Vial Level 1",
     "rule",
     "property | Use time | 1 action",
     "property | Range | Self (15-foot cone)",
