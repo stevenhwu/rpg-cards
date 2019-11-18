@@ -1,0 +1,24 @@
+[
+{"count": 5, "color": "Gray",
+  "title": "Enchantment Rune",
+  "title_size": "10",
+  "icon": "rune-stone",
+  "contents": [
+    "subtitle | Magic rune",
+    "rule",
+    "text | Weapon imbues with this run gains the following property",
+    "bullet | +1 to attack and damage roll"
+  ]
+},
+{"count": 4, "color": "Gray",
+  "title": "Enchantment Rune",
+  "title_size": "10",
+  "icon": "rune-stone",
+  "contents": [
+    "subtitle | Magic rune",
+    "rule",
+    "text | Armor imbues with this run gains the following property",
+    "bullet | +1 to AC"
+  ]
+}
+]

@@ -8,6 +8,7 @@
       "fill | 0.5",
       "text | Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-foot radius from the bottle. The cloud's area is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 10 feet until it reaches its maximum radius of 120 feet. <br> The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its Command Word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round.",
       "fill | 3"
+
 ]},
 {"count": 1,  "color": "Gray",
     "title": "Piccolo of Haunting",
@@ -18,33 +19,23 @@
       "fill | 0.5",
       "text | You must be proficient with wind instruments to use these Piccolo. They have 3 Charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become Frightened of you for 1 minute. If you wish, all creatures in the area that aren't Hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these Piccolo for 24 hours. The Piccolo regain 1d3 expended Charges daily at dawn.",
       "fill | 3",
-      "boxes | 3 2"
+      "boxes | 3 | 3"
 ]},
 {"count": 1,  "color": "Gray",
-    "title": "Piccolo of the Sewers",
-    "icon": "flute",
+    "title": "Belt of Wizardary",
+    "icon": "belt-armor",
     "contents": [
-      "subtitle | Wondrous",
+      "subtitle | Wondrous, Belt, Upgradable.",
       "rule",
       "property | Attunement | Yes",
       "rule",
       "fill | 0.5",
-      "text | You must be proficient with wind instruments to use these Piccolo. While you are attuned to the Piccolo, ordinary rats and giant rats are indifferent toward you and will not Attack you unless you threaten or harm them.",
-      "text | The Piccolo have 3 Charges. If you play the Piccolo as an action, you can use a Bonus Action to expend 1 to 3 Charges, calling forth one Swarm of Rats (see the Monster Manual for statistics) with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the DM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise. The Piccolo regain 1d3 expended Charges daily at dawn.",
+      "text | This belt has 2 charges (2 gems). Whenever you cast a spell you can expend one charge to implement one of the following metamagic into your spell. The belt regains 1d4 charges after each long rest.",
+      "description | Distant Spell (1 Charge) | When you cast a spell that has a range of 5 feet or greater, you can spend 1 charge to double the range of the spell. When you cast a spell that has a range of touch, you can spend 1 charge to make the range of the spell 30 feet.",
+      "description | Empowered Spell (1 Charge) | When you roll damage for a spell, you can spend 1 charge to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls. <br> You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.",
+      "description | Extended Spell (1 charge) |When you cast a spell that has a duration of 1 minute or longer, you can spend 1 charge to double its duration, to a maximum duration of 24 hours.",
+      "description | Subtle Spell (1 charge) +| When you cast a spell, you can spend 1 charge to cast it without any somatic or verbal components.",
       "fill | 3",
-      "boxes | 3 | 3"
-]},
-{"count": 1,  "color": "Gray",
-    "title": "Piccolo of the Sewers - P2",
-    "icon": "flute",
-    "contents": [
-      "subtitle | Wondrous",
-      "rule",
-      "property | Attunement | Yes",
-      "rule",
-      "fill | 0.5",
-      "text | Whenever a Swarm of Rats that isn't under another creature's control comes within 30 feet of you while you are playing the Piccolo, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the Piccolo' music for the next 24 hours. If you win the contest, the swarm is swayed by the Piccolo' music and becomes friendly to you and your companions for as long as you continue to play the Piccolo each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no Actions. If a friendly swarm starts its turn and can't hear the Piccolo' music, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the Piccolo' music for the next 24 hours.",
-      "fill | 3",
-      "boxes | 3 | 3"
+      "boxes | 2 | 3"
 ]}
 ]

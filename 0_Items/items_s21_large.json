@@ -1,0 +1,18 @@
+[
+  {"count": 1, "color": "Gray",
+    "title": "Fenthras - Magic long bow",
+    "title_size": "10",
+    "icon": "lightning-bow",
+    "contents": [
+      "subtitle | Magic Long bow, Dormant",
+      "rule",
+      "text | Fire magic arrows without damaging to the bow.",
+      "text | The wielder gains a +1 bonus to attack and damage rolls made with this weapon.",
+      "text | When firing an arrow from this weapon, the wielder can declare an <b>oracle shot</b>, allowing them to project their sight through the arrow they fire for up to 10 minutes. They cannot use this ability again until they finish a short rest.",
+      "text | When a creature is killed by an arrow from this weapon, a single six-foot tree rapidly grows out of their corpse over the next minute.",
+      "fill | 3",
+      "text | The elven name <i>Fenthras</i> has its roots in two ancient Elvish words meaning <b>protector</b> and <b>growth</b>",
+      "text | <i>Thoreous: It gets better over time</i>"
+    ]
+  }
+]

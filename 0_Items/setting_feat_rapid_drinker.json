@@ -1,0 +1,14 @@
+[
+  {"count": 6, "color": "Gray",
+    "title": "Rapid Drinker feat",
+    "title_size": "10",
+    "icon": "skills",
+    "contents": [
+      "subtitle | Feat",
+      "rule",
+      "text | Through a lifestyle of hard, competitive drinking, you’ve learned how to quaff drinks at an incredibly accelerated pace. You gain the following benefits:",
+      "text | You can drink a health potion as a Bonus action, instead of as an action.",
+      "fill | 3"
+    ]
+  }
+]
