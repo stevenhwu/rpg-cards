@@ -20,7 +20,7 @@
     "property | Attunement | Yes",
     "rule",
     "fill | 0.5",
-    "text | While you are wielding this sword, as an action you may move yourself and up to 2 other creatures you can see up to 10 feet. If you try to move a creature that is unwilling, it may attempt a DC 14 Strength saving throw. It is not moved if it succeeds..",
+    "text | While you are wielding this sword, as an action you may move yourself and up to 2 other creatures you can see up to 10 feet. If you try to move a creature that is unwilling, it may attempt a DC 14 Strength saving throw. It is not moved if it succeeds.",
     "fill | 3"
 ]},
 {"count": 1,  "color": "Gray",

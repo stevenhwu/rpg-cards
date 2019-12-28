@@ -1,0 +1,75 @@
+[
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Cloak of Arachnida",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous, Awaken",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:",
+      "bullet | You have resistance to poison damage.",
+      "bullet | You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.",
+      "bullet | You can use an action to cast the <i>web</i> spell (save DC 15). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn.",
+      "bullet | You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Your movment speed is 15 ft.",
+      "picture | (E) You have a climbing speed equal to your walking speed.",
+      "picture | (E) Add other CC spells.",
+      "fill | 3",
+      "boxes | 1 | 2"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Circlet of Sun",
+    "icon": "crenel-crown",
+    "contents": [
+      "subtitle | Wondrous, Awaken",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | This hat has 3 charges. While you wearing it, you can use an action and expend 1 charge to cast folowing spells",
+      "text | The hat regains all expended charges daily at dawn.",
+      "bullet | <i>Disguise self</i> (player's DC)",
+      "bullet | <i>Thaumaturgy</i>",
+      "text | You gain the following monk skill.",
+      "property | Blinding Sun Bolt | Immediately after you take the Attack action on your turn, you can spend 1 ki point to perform <i>Blindnig Sun Bolt</i> as a bonus action. This is a special range attack with a range of 30ft. You attempts to blind the creature. It must succeed on a Constitution saving throw or be blinded until the end of its next turn.",
+      "property | Scorching Heart | Immediately after you take the Attack action on your turn, you can spend 1 ki point to use <i>Scorching Heart</i> (with a range of 5ft) as a bonus action. The target must make a Constitution save against your ki save DC. On a failed save, it becomes <b>Immolated</b>, taking 2d6 radiant damage at the end of each of its turns until it or a creature within 5 feet of it uses its action to put it out. The radiant damage increases with your martial die (2d6 becomes 2d8 at 11th level, and so on).",
+      "picture | <A> Illusory Script as a Concentration spell. | 0",
+      "picture | <A> Bag of trickery (1 each time) | 0",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ]
+  },
+  {
+    "count": 1,
+    "color": "Gray",
+    "title": "Orc Wrestling Champion's Belt",
+    "title_size": "10",
+    "icon": "belt-armor",
+    "contents": [
+      "subtitle | Wondrous, Awaken???",
+      "rule",
+      "property | Attunement | Yes. Orcs, half-orcs only ",
+      "property | Maximum charges | 3",
+      "rule",
+      "fill | 0.5",
+      "text | This belt has 3 charges. While wearing this belt, you can spend 1 charge to gain advantage on <b>Grappling</b> and <b>Shoving</b> check.",
+      "text | The belt regains 1d4 charges after a short or long rest.",
+      "text | You gain the following monk skill.",
+      "property | Blinding Sun Bolt | Immediately after you take the Attack action on your turn, you can spend 1 ki point to perform <i>Blindnig Sun Bolt</i> as a bonus action. This is a special range attack with a range of 30ft. You attempts to blind the creature. It must succeed on a Constitution saving throw or be blinded until the end of its next turn.",
+      "property | Scorching Heart | Immediately after you take the Attack action on your turn, you can spend 1 ki point to use <i>Scorching Heart</i> (with a range of 5ft) as a bonus action. The target must make a Constitution save against your ki save DC. On a failed save, it becomes <b>Immolated</b>, taking 2d6 radiant damage at the end of each of its turns until it or a creature within 5 feet of it uses its action to put it out. The radiant damage increases with your martial die (2d6 becomes 2d8 at 11th level, and so on).",
+      "picture | (A/E) +1 AC",
+      "fill | 3",
+      "boxes | 3 | 2"
+    ],
+    "tags": [
+      "wondrous",
+      "uncommon"
+    ]
+  }
+]

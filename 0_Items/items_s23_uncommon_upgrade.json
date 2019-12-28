@@ -14,6 +14,7 @@
       "text | While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs.",
       "bullet | You gain a +1 bonus to AC while you wear this armor.",
       "bullet | You have resistance to acid damage.",
+      "picture | (E) command spell? immune to acid, frighten ",
       "fill | 3"
     ]
   },
@@ -55,57 +56,9 @@
       "fill | 0.5",
       "text | While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn.",
       "bullet | Advanced portent: You can reroll one of your prediction, but most take the new roll.",
+      "picture | (E) ????",
       "fill | 3",
       "boxes | 1 |  2"
-    ],
-    "tags": [
-      "wondrous",
-      "uncommon"
-    ]
-  },
-  {
-    "count": 1,
-    "color": "Gray",
-    "title": "Hat of Trickery",
-    "icon": "top-hat",
-    "contents": [
-      "subtitle | Wondrous, Awaken???",
-      "rule",
-      "property | Attunement | Yes",
-      "rule",
-      "fill | 0.5",
-      "text | This hat has 3 charges. While you wearing it, you can use an action and expend 1 charge to cast folowing spells",
-      "text | The hat regains all expended charges daily at dawn.",
-      "bullet | <i>disguise self</i> (save DC 13)",
-      "bullet | <i>Thaumaturgy</i>",
-      "picture | <A> Illusory Script as a Concentration spell. ",
-      "picture | <A> Bag of trickery (1 each time) ",
-      "fill | 3",
-      "boxes | 3 | 2"
-    ],
-    "tags": [
-      "wondrous",
-      "uncommon"
-    ]
-  },
-  {
-    "count": 1,
-    "color": "Gray",
-    "title": "Orc Wrestling Champion's Belt",
-    "title_size": "10",
-    "icon": "belt-armor",
-    "contents": [
-      "subtitle | Wondrous, Awaken???",
-      "rule",
-      "property | Attunement | Yes. Orcs, half-orcs only ",
-      "property | Maximum charges | 3",
-      "rule",
-      "fill | 0.5",
-      "text | This belt has 3 charges. While wearing this belt, you can spend 1 charge to gain advantage on <b>Grappling</b> and <b>Shoving</b> check.",
-      "text | The belt regains 1d4 charges after a short or long rest.",
-      "text | Awaken?????",
-      "fill | 3",
-      "boxes | 3 | 2"
     ],
     "tags": [
       "wondrous",
