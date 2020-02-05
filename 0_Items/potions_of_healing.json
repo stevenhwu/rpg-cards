@@ -14,10 +14,42 @@
       "text | When you drink this red fluid in this vial, you regain 2d4+2 hitpoints.",
       "text | Drinking or administering a potion takes 1 action.",
       "fill | 3"
-    ],
-    "tags": [
-      "item",
-      "consumable"
+    ]
+  },
+  {
+    "count": 6,
+    "color": "Gray",
+    "title": "Potion of Greater Healing",
+    "title_size": "10",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Hit points restored | 4d4+4",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this red fluid in this vial, you regain 4d4+4 hitpoints.",
+      "text | Drinking or administering a potion takes 1 action.",
+      "fill | 3"
+    ]
+  },
+  {
+    "count": 3,
+    "color": "Gray",
+    "title": "Potion of Superior Healing",
+    "title_size": "10",
+    "icon": "drink-me",
+    "contents": [
+      "subtitle | Potion",
+      "rule",
+      "property | Use time | 1 action",
+      "property | Hit points restored | 8d4+8",
+      "rule",
+      "fill | 0.5",
+      "text | When you drink this red fluid in this vial, you regain 8d4+8 hitpoints.",
+      "text | Drinking or administering a potion takes 1 action.",
+      "fill | 3"
     ]
   }
 ]

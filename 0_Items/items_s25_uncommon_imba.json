@@ -23,7 +23,7 @@
   {
     "count": 1,
     "color": "Gray",
-    "title": "Ancient warhammer",
+    "title": "Ghal Maraz (Skull-Splitter)",
     "icon": "hammer",
     "contents": [
       "subtitle | Plot device",
@@ -34,6 +34,7 @@
       "text | This warhammer forged in ancient way using Fever Iron, Cold Iron, Crystal Iron, Tempest Iron.",
       "text | You gain a +2 bonus to Attack and Damage Rolls made with this warhammer.",
       "text | When you hit a creature <b>Huge</b> or laregr with this warhammer, the creature takes an extra 3d8 damage.",
+      "fill | 1",
       "picture | /home/steven/Other/Project_TalDorei/images/S25/warhammer.jpg | 120",
       "fill | 3"
     ]
