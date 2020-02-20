@@ -1,0 +1,128 @@
+[
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Fenthras - Magic long bow",
+    "icon": "lightning-bow",
+    "contents": [
+      "subtitle | Magic Long bow, Dormant",
+      "rule",
+      "fill | 0.2",
+      "text | Fire magic arrows without damaging to the bow.",
+      "text | The wielder gains a +1 bonus to attack and damage rolls made with this weapon.",
+      "text | When firing an arrow from this weapon, the wielder can declare an <b>oracle shot</b>, allowing them to project their sight through the arrow they fire for up to 10 minutes. They cannot use this ability again until they finish a short rest.",
+      "text | When a creature is killed by an arrow from this weapon, a single six-foot tree rapidly grows out of their corpse over the next minute.",
+      "fill | 3",
+      "text | The elven name <i>Fenthras</i> has its roots in two ancient Elvish words meaning <b>protector</b> and <b>growth</b>",
+      "text | <i>Thoreous: It gets better over time</i>"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Plate of the Dawnmartyr",
+    "icon": "breastplate",
+    "contents": [
+      "subtitle | Armor (plate), Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | Beautiful silver scrolling and priceless, cut rubies adorn this set of brass-and-gold armor. Worn by the High Priest Duana of the Dawnfather as she fell in the Battle of Ghor Dranas. ",
+      "bullet | You gain a +1 bonus to AC while wearing this armor.",
+      "bullet | When you are struck by a melee attack, you may use your reaction to cause the attacker to suffer 1d6 points of fire damage.",
+      "fill | 2"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Spire of Conflux",
+    "icon": "wizard-staff",
+    "contents": [
+      "subtitle | Staff, Dormant",
+      "rule",
+      "property | Attunement by a spellcaster | ",
+      "rule",
+      "fill | 0.1",
+      "text | The staff has <b>8</b> charges and regains 1d4 + 2 expended charges daily at dawn.",
+      "text | While holding the staff, you can expend some of its charges to cast one of the following spells from it, using your spell save DC and spell-casting ability:",
+      "bullet | ??? CHANGE THESE!!burning hands (1 charge), fireball (3 charges).",
+      "fill | 2",
+      "boxes | 8 | 2"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Whisper",
+    "icon": "sacrificial-dagger",
+    "contents": [
+      "subtitle | Dagger, Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | Forged with a mercurial metal pulled from the Far Realm, light dances and shifts across this curved blade.",
+      "bullet | You have a +1 bonus to attack and damage rolls made with this weapon.",
+      "bullet | Whenever you strike a creature with a critical hit using Whisper, the target must make a DC 13 Wisdom saving throw or become frightened of you for 1 minute. On a success, they are immune to being frightened by this effect for the next 24 hours.",
+      "fill | 2"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Wraps of Dyamak",
+    "icon": "hand-bandage",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement by a monk |",
+      "rule",
+      "fill | 0.1",
+      "text | Created and wielded by the ancient warrior called Dyamak, these thick cloth strips of enchanted material appear to be stained with blood of unknown origin.",
+      "bullet | You have a +1 bonus to attack and damage rolls made with your unarmed strikes.",
+      "bullet | Whenever you finish a short or long rest, you gain a number of temporary hit points equal to your full ki points.",
+      "fill | 2"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Kiss of the Changebringer",
+    "icon": "emerald-necklace",
+    "contents": [
+      "subtitle | Wondrous, Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.1",
+      "text | A beautiful, glittering emerald is set within the center of this silver chain, humming with power and possibility.",
+      "bullet | While wearing this amulet, you gain a +1 bonus to all saving throws.",
+      "bullet | You are immune to the grappled condition.",
+      "fill | 2"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Honor's Last Stand",
+    "icon": "griffin-shield",
+    "contents": [
+      "subtitle | Shield, Dormant",
+      "rule",
+      "property | Attunement by a non-evil character | ",
+      "rule",
+      "fill | 0.1",
+      "text | This massive, silvered shield bearing the crest of the Platinum Dragon never tarnishes. The metal is warm to the touch.",
+      "bullet | While holding the shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.",
+      "bullet | You are also immune to the prone condition while bearing this shield.",
+      "fill | 2"
+    ]
+  },
+  {"count": 1, "color": "Gray", "title_size": "10",
+    "title": "Cabal's Ruin",
+    "icon": "wing-cloak",
+    "contents": [
+      "subtitle | Wondrous (cloak), Dormant",
+      "rule",
+      "property | Attunement | Yes",
+      "rule",
+      "fill | 0.5",
+      "text | This cloak of dark leather and gold trim seems to occasionally shimmer with small sparks of blue energy across the shadowed lining.",
+      "text | This cloak has <b>4</b> charges, and regains 1d4 expended charges daily at dawn.",
+      "text | When you are targeted by an enemy's spell, you can use your reaction to have the cloak swallow part of the spell. The cloak gains a number of charges equal to the spell level of the triggering spell. You are still subject to whatever effects the spell would normally inflict on you.",
+      "text | You cannot use this ability again until you finish a short or long rest.",
+      "text | When you hit with an attack, you can choose to expend any number of charges from the cloak, dealing an additional 1d6 lightning damage per charge expended, which is inflicted on the target of that attack. If your attack strikes multiple targets, you must choose one target from the group to be subject to this damage.",
+      "fill | 2",
+      "boxes | 4 | 2"
+    ]
+  }
+
+]
