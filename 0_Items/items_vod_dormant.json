@@ -3,7 +3,7 @@
     "title": "Fenthras - Magic long bow",
     "icon": "lightning-bow",
     "contents": [
-      "subtitle | Magic Long bow, Dormant",
+      "subtitle | Magic Long bow, Vestiges of Divergence, Dormant",
       "rule",
       "fill | 0.2",
       "text | Fire magic arrows without damaging to the bow.",
@@ -19,7 +19,7 @@
     "title": "Plate of the Dawnmartyr",
     "icon": "breastplate",
     "contents": [
-      "subtitle | Armor (plate), Dormant",
+      "subtitle | Armor (plate), Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement | Yes",
       "rule",
@@ -34,7 +34,7 @@
     "title": "Spire of Conflux",
     "icon": "wizard-staff",
     "contents": [
-      "subtitle | Staff, Dormant",
+      "subtitle | Staff, Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement by a spellcaster | ",
       "rule",
@@ -50,7 +50,7 @@
     "title": "Whisper",
     "icon": "sacrificial-dagger",
     "contents": [
-      "subtitle | Dagger, Dormant",
+      "subtitle | Dagger, Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement | Yes",
       "rule",
@@ -65,7 +65,7 @@
     "title": "Wraps of Dyamak",
     "icon": "hand-bandage",
     "contents": [
-      "subtitle | Wondrous, Dormant",
+      "subtitle | Wondrous, Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement by a monk |",
       "rule",
@@ -80,7 +80,7 @@
     "title": "Kiss of the Changebringer",
     "icon": "emerald-necklace",
     "contents": [
-      "subtitle | Wondrous, Dormant",
+      "subtitle | Wondrous, Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement | Yes",
       "rule",
@@ -95,7 +95,7 @@
     "title": "Honor's Last Stand",
     "icon": "griffin-shield",
     "contents": [
-      "subtitle | Shield, Dormant",
+      "subtitle | Shield, Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement by a non-evil character | ",
       "rule",
@@ -108,9 +108,9 @@
   },
   {"count": 1, "color": "Gray", "title_size": "10",
     "title": "Cabal's Ruin",
-    "icon": "wing-cloak",
+    "icon": "cloak",
     "contents": [
-      "subtitle | Wondrous (cloak), Dormant",
+      "subtitle | Wondrous (cloak), Vestiges of Divergence, Dormant",
       "rule",
       "property | Attunement | Yes",
       "rule",
